@@ -12,6 +12,13 @@ Static HTML, no build step, no dependencies beyond Google Fonts.
 | `sitemap.xml` | Sitemap for Google Search Console / Bing Webmaster |
 | `llms.txt` | Plain-text business summary for AI assistants (Agent Engine Optimization) |
 
+## Live preview
+
+Public preview (GitHub Pages, rebuilds on every push to `main`):
+https://kwameautomateelite.github.io/ajys-enterprise/
+
+Source: https://github.com/KwameAutomateelite/ajys-enterprise
+
 ## Deploy
 
 Upload the four files to the root of any static host (Vercel, Netlify, Cloudflare Pages, cPanel `public_html`).
